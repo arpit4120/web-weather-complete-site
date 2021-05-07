@@ -4,8 +4,3 @@ Its a node js project that call weather api to call the weather of the typed cit
 
 ## snapshots
 
-<img src="Screenshot (20).png" width="100%" height="1000px">
-<img src="Screenshot (22).png" width="100%" height="1000px">
-<img src="Screenshot (23).png" width="100%" height="1000px">
-<img src="Screenshot (24).png" width="100%" height="1000px">
-
